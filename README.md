@@ -9,7 +9,7 @@ Features:
 3)Station Information:
    Provide information about each station, including facilities and connections.
 4)Route Visualization:
-   Visualize the route on a map or a graphical representation of the metro network.
+   Visualize the route on a map or a graphical representation of the metro network
 5)User Interface:
    Implement a user-friendly interface for users to input their source and destination stations.
 Technologies:
